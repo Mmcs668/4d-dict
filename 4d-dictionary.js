@@ -17,8 +17,8 @@ const I18N = {
     showing: 'Showing', entries: 'entries', clear: 'Clear search',
     all_entries: 'All Entries', matches_for: 'Matches for',
     no_results: 'No matches. Try another keyword.',
-    foot1: 'Compiled folklore reference · For entertainment only',
-    foot2: 'This dictionary is a cultural reference. It does not predict lottery results.',
+    foot1: '🎰 Sweet Dreams, Big Wins',
+    foot2: 'Find your lucky number from your dream. May fortune favor you!',
     your_pick: 'Your lucky number'
   },
   zh: {
@@ -29,8 +29,8 @@ const I18N = {
     showing: '顯示', entries: '條目', clear: '清除搜尋',
     all_entries: '全部條目', matches_for: '搜尋結果：',
     no_results: '沒有結果，請換個關鍵字試試。',
-    foot1: '民俗參考彙編 · 僅供娛樂',
-    foot2: '本字典為文化參考資料，並不預測彩票結果。',
+    foot1: '🎰 美夢成真 · 萬字中萬',
+    foot2: '依夢解碼，尋找您的幸運號碼。祝您橫財就手，期期中獎！',
     your_pick: '你的幸運號碼'
   },
   ms: {
@@ -41,8 +41,8 @@ const I18N = {
     showing: 'Menunjukkan', entries: 'entri', clear: 'Padam carian',
     all_entries: 'Semua Entri', matches_for: 'Padanan untuk',
     no_results: 'Tiada padanan. Cuba kata kunci lain.',
-    foot1: 'Rujukan cerita rakyat · Untuk hiburan sahaja',
-    foot2: 'Kamus ini adalah rujukan budaya. Ia tidak meramal keputusan loteri.',
+    foot1: '🎰 Mimpi Manis, Menang Besar',
+    foot2: 'Cari nombor bertuah dari mimpi anda. Semoga bertuah dan menang besar!',
     your_pick: 'Nombor bertuah anda'
   }
 };
